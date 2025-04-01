@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:widgets_app/config/menu/menu_items.dart';
 
 class HomeScreens extends StatelessWidget {
+  static const String name = 'home_screens';
   const HomeScreens({super.key});
 
   @override
