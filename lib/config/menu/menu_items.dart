@@ -45,6 +45,12 @@ const List<MenuItems> appMenuItems = [
     subTitle: 'Series de controles en Flutter', 
     link: '/ui_screen',
     icon: Icons.car_rental_rounded),
+    MenuItems(
+    title: 'Introducion a la APP', 
+    subTitle: 'Tutorial', 
+    link: '/tutorial_screen',
+    icon: Icons.accessible_rounded),
+  
   
   
   
